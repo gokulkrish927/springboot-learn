@@ -4,5 +4,10 @@ public class hello {
         System.out.printf("hello");
         System.out.printf("hello");
         System.out.printf("hello");
+        System.out.printf("hello");
+        System.out.printf("hello");
+        System.out.printf("hello");
+        System.out.printf("hello");
+        System.out.printf("hello");
     }
 }
